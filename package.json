@@ -1,0 +1,14 @@
+{
+	"name": "discordbot",
+	"version": "1.0.0",
+	"description": "I'll try to just create a simple discord bot using the coding train's tutorial\r In the future I will try to create a discord bot that connects with chatgpt and can answer math/physics questions.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"discord.js": "^14.14.1"
+	}
+}
