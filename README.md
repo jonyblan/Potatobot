@@ -10,6 +10,8 @@ Server functionalities:
 - Kick/Ban
 
 Useful Functionalities:
+- Search for a uni assignment
+- Helps with subway connections
 
 
 Future posible functionalities:
@@ -19,3 +21,4 @@ Future posible functionalities:
 	- math/physics questions
 - alarm
 - weather
+- Links to important uni things (tps, forums)
