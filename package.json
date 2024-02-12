@@ -1,6 +1,6 @@
 {
   "name": "discordbot",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "I'll try to just create a simple discord bot using the coding train's tutorial\r In the future I will try to create a discord bot that connects with chatgpt and can answer math/physics questions.",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^14.14.1"
+    "discord.js": "^14.14.1",
+    "sqlite3": "^5.1.7"
   }
 }

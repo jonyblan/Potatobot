@@ -2,5 +2,6 @@
 	"token": "TOKEN",
 	"clientId": "1205590791108698142",
 	"guildId": "1205592624338309222",
-	"adminId": "ADMIN"
+	"adminId": "ADMIN",
+	"dbFilePath": "PATH"
 }
